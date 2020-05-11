@@ -1,2 +1,3 @@
+include ':SkinButler'
 include ':app'
 rootProject.name = "AndroidSkinButler"
